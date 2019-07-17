@@ -23,3 +23,13 @@ SP(k).pos=[rand(1)*100-50; (rand(1)*100)-50; rand(1)*40-20];     % the k-th scat
 ## Authors
 The code was developed by 
 * **[Henk Wymeersch](https://sites.google.com/site/hwymeers/)**
+
+For more information, please see
+```
+@article{wymeersch2018simple,
+  title={A Simple Method for 5G Positioning and Synchronization without Line-of-Sight},
+  author={Wymeersch, Henk},
+  journal={arXiv preprint arXiv:1812.05417},
+  year={2018}
+}
+```
